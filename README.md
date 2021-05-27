@@ -5,11 +5,11 @@
 ## **Deployment Test**
 ## **Author: Farah AlWahaibi**
 
-[PR LINK](https://github.com/farahalwahaibi/bearer-auth/pull/1)
+[PR LINK](https://github.com/farahalwahaibi/auth-api-/pull/1)
 
-[Heroku APP](https://bearer-auth-2021.herokuapp.com/)
+[Heroku APP](https://auth-api-2021.herokuapp.com/)
 
-[Report Test](https://github.com/farahalwahaibi/bearer-auth/actions)
+[Report Test](https://github.com/farahalwahaibi/auth-api-/actions)
 
 
 
