@@ -97,6 +97,11 @@
 ![test1](1.JPG)
 ![test2](2.JPG)
 
+
+## **UML DIAGRAM**
+
+![test1](3.JPG)
+
 ***
 
 ***Thank you!!***
